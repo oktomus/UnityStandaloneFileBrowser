@@ -1,5 +1,8 @@
 # Unity Standalone File Browser
 
+- :package: [Download the package](https://github.com/quangdungtr/UnityStandaloneFileBrowser/blob/master/Package/StandaloneFileBrowser.unitypackage)
+- :sparkles: [WebGL Demo](https://gkngkc.github.io/)
+
 A simple wrapper for native file dialogs on Windows/Mac.
 
 - Works in editor and runtime.
@@ -46,5 +49,3 @@ WebGL:
  - Basic upload/download file support.
  - Not well tested, probably not much reliable.
  - Since browsers require more work to do file operations, webgl isn't directly implemented to Open/Save calls. You can check CanvasSampleScene.unity and canvas sample scripts for example usages.
- 
- Live Demo: https://gkngkc.github.io/
